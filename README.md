@@ -1,16 +1,41 @@
 # Transparent 128x64px LCD Display with Arduino UNO
 Transparent 128x64px LCD Display with Arduino UNO
 
+**YouTube video: https://youtu.be/ZfIvxvHziRA**
 
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Transparent LCD: https://www.crystalfontz.com/product/cfag12864u4nfi-128x64-transparent-graphic-lcd-display
+- Mini transparent clock: https://s.click.aliexpress.com/e/_c3Cr0hBl
+- Seeduino - 3.3V Arduino UNO: https://s.click.aliexpress.com/e/_c3eea2fl
+- Getting started blog post: https://www.crystalfontz.com/blog/graphic-lcd-board-cfa10110-getting-started/
+- Arduino DEMO source: https://github.com/crystalfontz/CFAG12864Tx_and_Ux_ST7565P
+- Image2cpp converting images to c-style arrays: https://javl.github.io/image2cpp/
+- Arduino UNO pinout: https://docs.arduino.cc/resources/pinouts/A000066-full-pinout.pdf
+- u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8g2reference#drawxbmp
 
-
-**YouTube video: XXX**
+Related videos with Arduino UNO and OLED screen:
+- Transparent 128x128px OLED: https://youtu.be/HFeO1TjBkfM
+- Transparent PCB: https://youtu.be/jDI_Xw7IoPI
+- Transparent edgelit display: https://youtu.be/Cg9MDF1VE2g
+- Transparent OLED menu: https://youtu.be/uEkksez7qvE
+- Transparent OLED clock: https://youtu.be/OqqPvb8FEHs
+- Transparent 3D cube: https://youtu.be/kBAcaA7NAlA
+- Transparent OLED and Xiao: https://youtu.be/4GfPQoIRqW8
 
 
 ![THUMB_transparent_LCD](https://github.com/user-attachments/assets/05f9ae0e-2aad-4dae-b140-beb3e860c12c)
 
 
 Small Animations:
+
+![transparent_lcd_maple](https://github.com/user-attachments/assets/495aedbd-6266-435a-be52-7feafa3bd196)
+
+![transparent_lcd_light](https://github.com/user-attachments/assets/442955ab-e982-4637-a249-c2259290b1e1)
+
+![transparent_lcd_dark](https://github.com/user-attachments/assets/57d63841-4b95-4dd3-bed9-d2f34198ce81)
+
+
 
 
 Screenshots from the video:
